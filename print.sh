@@ -10,4 +10,4 @@ echo hello world
 echo how are you doing , good day
 #syntax echo -e "/n line1/n line2"
 
-echo -e  "\nhello,\nhow are you doing \ngood day
+echo -e  "\nhello,\nhow are you doing \ngood day"
