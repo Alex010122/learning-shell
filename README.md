@@ -1,1 +1,3 @@
-# learning-shell
+#!/bin/bash
+
+ls
