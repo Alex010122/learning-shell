@@ -9,3 +9,9 @@ echo $a
 
 b=$((3+5))
 echo $b
+
+#Command substitution
+DATE=$(date +%F)
+
+echo Welcome today date is $date
+
