@@ -28,13 +28,13 @@ echo -e "a\tb"
 
 #what are the color we have
 # color  Code   syntax
-#red     31     \e[31
-#GReen    32    \e[32
-#yellow   33    \e[33
-#blue     34    \e[34
-#magenta   35    \e[35
-#cyan     36     \e[36
+#red     31     \e[31m
+#GReen    32    \e[32m
+#yellow   33    \e[33m
+#blue     34    \e[34m
+#magenta   35    \e[35m
+#cyan     36     \e[36m
 
 
-echo -e "\e[31hello in red color"
+echo -e "\e[31mhello in red color"
 echo -e "hello in normal text"
