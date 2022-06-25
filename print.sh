@@ -36,5 +36,5 @@ echo -e "a\tb"
 #cyan     36     \e[36m
 
 
-echo -e "\e[36mhello in red color\e[0m"
+echo -e "\e[32mhello in red color\e[0m"
 echo -e "hello in normal text"
