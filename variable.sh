@@ -10,6 +10,9 @@ echo $a
 b=$((3+5))
 echo $b
 
+c=$((5+5))
+
+echo $c
 #Command substitution
 DATE=$(date +%F)
 
