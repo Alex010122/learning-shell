@@ -16,3 +16,25 @@ echo -e  "\nhello,\nhow are you doing \ngood day"
 #print a tab space
 
 echo -e "a\tb"
+
+#print some collors
+
+#syntax : echo -e "\e[comlorcode\e[0m"
+
+#-e enable ecs seq
+#\e enanble color
+#[colm - give color input
+#\e[0m - disable the color
+
+#what are the color we have
+# color  Code   syntax
+#red     31     \e[31
+#GReen    32    \e[32
+#yellow   33    \e[33
+#blue     34    \e[34
+#magenta   35    \e[35
+#cyan     36     \e[36
+
+
+echo -e "\e[31hello in red color"
+echo -e "hello in normal text"
