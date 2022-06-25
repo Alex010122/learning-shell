@@ -5,3 +5,6 @@
 
 #syntax echo INPUT
 echo hello world
+
+#print multiple lines
+echo how are you doing , good day
