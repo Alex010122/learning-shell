@@ -1,3 +1,4 @@
 #!/bin/bash
 ls
-exit
+exit 0
+hello
