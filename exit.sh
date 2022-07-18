@@ -1,4 +1,4 @@
 #!/bin/bash
 ls
 exit 0
-hello
+echo hello
