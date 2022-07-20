@@ -5,7 +5,7 @@
 
 i=0
 while [ $i -lt 2 ] ; do
-  echo hello
+  echo hello -i
   i=$(($i+1))
   done
   
